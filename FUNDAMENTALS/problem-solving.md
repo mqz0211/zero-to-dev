@@ -64,7 +64,7 @@ anyone else's. Force yourself to read real projects on GitHub — you
 don't need to understand every line; you're training your brain to
 recognize patterns.
 
-## ✅ Check yourself
+## Check yourself
 
 Try this right now: pick any everyday task (making instant noodles,
 getting ready for school) and break it into a numbered list of steps
