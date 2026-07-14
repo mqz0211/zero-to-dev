@@ -1,4 +1,4 @@
-# 💻 Software Engineer Roadmap
+#  Software Engineer Roadmap
 
 **For people who want to:** build applications, websites, tools, and
 systems for a living.
@@ -87,7 +87,7 @@ for ideas sequenced by difficulty.
 - [ ] See [`CAREERS/internships.md`](../CAREERS/internships.md) for
       where and how to apply
 
-## ✅ You're ready for an internship interview when you can:
+##  You're ready for an internship interview when you can:
 - Explain what happens, step by step, when you type a URL and hit enter
 - Write a function that reverses a linked list without looking it up
 - Walk someone through a project on your GitHub, including a decision
