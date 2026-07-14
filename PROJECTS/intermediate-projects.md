@@ -4,7 +4,7 @@
 > These projects introduce real-world constraints: persistence, users,
 > deployment, and dealing with messier data.
 
-## 🐍 Python / Backend track
+##  Python / Backend track
 
 ```
 Project 1: REST API for a Notes App (Flask/FastAPI)
@@ -23,7 +23,7 @@ Project 4: Deploy it live (real users can access it)
 | 3 | Add authentication | Password hashing, sessions/JWTs |
 | 4 | Deploy it | Environment variables, a hosting platform, basic DevOps |
 
-## 🌐 Full-Stack Web track
+##  Full-Stack Web track
 
 ```
 Project 1: React To-Do App (frontend only, local state)
@@ -42,7 +42,7 @@ Project 4: Full-Stack Blog Platform (write, edit, delete posts)
 | 3 | Authentication | Protected routes, tokens, persisted login |
 | 4 | Blog Platform | Full CRUD, form validation, image uploads |
 
-## 🔐 Cybersecurity track
+##  Cybersecurity track
 
 ```
 Project 1: Vulnerable Web App (build one, then break it yourself)
@@ -61,7 +61,7 @@ Project 4: Automated Vulnerability Scanner (against your own lab apps)
 | 3 | Network Traffic Analyzer | Packet capture basics (Scapy/Wireshark) |
 | 4 | Vulnerability Scanner | Automating checks against your own local lab — **never external targets without permission** |
 
-## 🤖 AI/ML track
+##  AI/ML track
 
 ```
 Project 1: Spam Email Classifier (scikit-learn)
