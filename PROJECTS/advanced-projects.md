@@ -4,7 +4,7 @@
 > to take 2–6 weeks and touches multiple skills at once — this is where
 > you build the 2–3 projects that actually anchor your resume.
 
-## 🖥️ Systems / Software Engineering
+##  Systems / Software Engineering
 
 - **Build a distributed key-value store** — replication, consistency
   trade-offs, a real systems-design problem in miniature.
@@ -13,7 +13,7 @@
 - **Build a CI/CD pipeline for one of your own projects** — automated
   tests, linting, and deployment triggered on every push.
 
-## 🔐 Cybersecurity
+##  Cybersecurity
 
 - **Build and document a full home-lab penetration test** — set up
   intentionally vulnerable machines *you own*, attack them, write a
@@ -23,7 +23,7 @@
 - **Contribute a CVE-style writeup for a CTF challenge you solved** —
   publish a clear, responsible writeup demonstrating real methodology.
 
-## 🤖 AI/ML
+##  AI/ML
 
 - **Build a Retrieval-Augmented Generation (RAG) system** — combine a
   vector database with an LLM to answer questions over your own
@@ -33,14 +33,14 @@
 - **Build an ML model monitoring dashboard** — track drift, latency,
   and accuracy of a deployed model over time.
 
-## 🌐 Full-Stack / Product
+##  Full-Stack / Product
 
 - **Build a real SaaS-style product with payments** — auth, database,
   a real feature people would pay for, Stripe integration.
 - **Build a real-time collaborative app** — WebSockets, conflict
   resolution, multiple simultaneous users (think: a mini Google Docs).
 
-## ☁️ Cloud / DevOps
+##  Cloud / DevOps
 
 - **Deploy a multi-service app with Docker + Kubernetes** — not just
   "it runs in a container," but orchestrated, scalable infrastructure.
