@@ -1,4 +1,4 @@
-# ☁️ Cloud Engineer Roadmap
+#  Cloud Engineer Roadmap
 
 **For people who want to:** deploy, run, and scale infrastructure and
 applications on cloud platforms.
@@ -66,7 +66,7 @@ Pick one to go deep on first (concepts transfer between them later):
       manual click-through setup
 - [ ] See [`CAREERS/portfolio.md`](../CAREERS/portfolio.md)
 
-## ✅ You're ready for an internship interview when you can:
+##  You're ready for an internship interview when you can:
 - Explain the difference between a VM and a container
 - Walk through what happens when your CI/CD pipeline runs, step by step
 - Explain why least-privilege IAM matters, with a concrete example
