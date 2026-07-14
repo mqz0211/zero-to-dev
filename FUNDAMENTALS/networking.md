@@ -75,7 +75,7 @@ specific door/apartment number — it lets one machine run many
 different services (a website on port 80, a database on port 5432)
 without them interfering with each other.
 
-## ✅ Check yourself
+## Check yourself
 
 You're ready to move on when you can explain, in your own words:
 - The difference between a client and a server
