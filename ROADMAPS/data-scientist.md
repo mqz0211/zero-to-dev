@@ -1,4 +1,4 @@
-# 📊 Data Scientist Roadmap
+#  Data Scientist Roadmap
 
 **For people who want to:** turn raw data into insight and decisions —
 less "build the model," more "figure out what question the data can
@@ -65,7 +65,7 @@ data science:
       non-technical could understand
 - [ ] See [`CAREERS/portfolio.md`](../CAREERS/portfolio.md)
 
-## ✅ You're ready for an internship interview when you can:
+##  You're ready for an internship interview when you can:
 - Explain a p-value correctly to someone who's never heard of one
 - Defend a modeling choice you made, including its trade-offs
 - Turn a vague business question into a specific, answerable data question
