@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧭 Student Tech Roadmap
+# Student Tech Roadmap
 
 **The Wikipedia + roadmap.sh + freeCodeCamp of technology learning — built for students who don't already speak the language of tech.**
 
@@ -23,7 +23,7 @@ This is v1: a complete, navigable, markdown-based knowledge base. A v2
 interactive path-selector website (built on top of this same content) is
 planned — see [Roadmap for this project](#project-roadmap) below.
 
-## 🎯 Choose your path
+##  Choose your path
 
 Pick where you want to end up. Every path is structured the same way:
 **fundamentals → beginner projects → intermediate skills → internship-ready
@@ -31,18 +31,18 @@ portfolio → professional**.
 
 | Path | For people who want to... |
 |---|---|
-| 🖥️ [Software Engineer](ROADMAPS/software-engineer.md) | Build applications, websites, and systems |
-| 🔐 [Cybersecurity Specialist](ROADMAPS/cybersecurity.md) | Break, defend, and secure systems (ethically) |
-| 🤖 [AI Engineer](ROADMAPS/ai-engineer.md) | Build and work with machine learning models |
-| 📊 [Data Scientist](ROADMAPS/data-scientist.md) | Turn raw data into insight and decisions |
-| 🎮 [Game Developer](ROADMAPS/game-developer.md) | Build games, from logic to engine to release |
-| 🌐 [Web Developer](ROADMAPS/web-developer.md) | Build websites and web applications |
-| ☁️ [Cloud Engineer](ROADMAPS/cloud-engineer.md) | Deploy and run infrastructure at scale |
+|  [Software Engineer](ROADMAPS/software-engineer.md) | Build applications, websites, and systems |
+|  [Cybersecurity Specialist](ROADMAPS/cybersecurity.md) | Break, defend, and secure systems (ethically) |
+|  [AI Engineer](ROADMAPS/ai-engineer.md) | Build and work with machine learning models |
+|  [Data Scientist](ROADMAPS/data-scientist.md) | Turn raw data into insight and decisions |
+|  [Game Developer](ROADMAPS/game-developer.md) | Build games, from logic to engine to release |
+|  [Web Developer](ROADMAPS/web-developer.md) | Build websites and web applications |
+|  [Cloud Engineer](ROADMAPS/cloud-engineer.md) | Deploy and run infrastructure at scale |
 
 Not sure yet? Start with [`FUNDAMENTALS/`](FUNDAMENTALS/) — every path
 builds on the same base.
 
-## 📚 What's in this repo
+##  What's in this repo
 
 ```
 Student-Tech-Roadmap/
@@ -55,7 +55,7 @@ Student-Tech-Roadmap/
 └── CONTRIBUTING.md     # How to add a resource, project, or roadmap
 ```
 
-## 🪜 How every roadmap is structured
+##  How every roadmap is structured
 
 ```
 Beginner
@@ -79,14 +79,14 @@ AI Assistant`, each one deliberately harder than the last and reusing
 what you just learned. See [`PROJECTS/`](PROJECTS/) for the full sequences
 across every language and path.
 
-## 🧠 New to tech entirely? Start here.
+##  New to tech entirely? Start here.
 
 - [What is RAM, a CPU, and storage?](FUNDAMENTALS/computer-basics.md)
 - [What is Linux and why does everyone keep telling you to learn it?](FUNDAMENTALS/linux.md)
 - [What is an API, a server, and the internet, really?](FUNDAMENTALS/networking.md)
 - [What does a developer actually do all day?](FUNDAMENTALS/problem-solving.md)
 
-## 🤝 Contributing
+##  Contributing
 
 This repo grows through contributions — a broken link, an outdated
 course, a missing project idea, or a whole new roadmap. See
@@ -94,7 +94,7 @@ course, a missing project idea, or a whole new roadmap. See
 [`good first issue`](../../labels/good%20first%20issue) are a good place
 to start.
 
-## 🗺️ Project roadmap
+##  Project roadmap
 
 - [x] v1 — Complete markdown knowledge base (all 7 paths, fundamentals, projects, resources, careers)
 - [ ] v1.1 — Community resource review process + link-rot checker (GitHub Action)
