@@ -1,4 +1,4 @@
-# 🤖 AI Engineer Roadmap
+#  AI Engineer Roadmap
 
 **For people who want to:** build, fine-tune, and deploy machine
 learning and AI systems.
@@ -71,7 +71,7 @@ Building a model is different from running one in production.
       didn't work
 - [ ] See [`CAREERS/portfolio.md`](../CAREERS/portfolio.md)
 
-## ✅ You're ready for an internship interview when you can:
+##  You're ready for an internship interview when you can:
 - Explain overfitting to someone with no ML background, using an analogy
 - Walk through your own project's model choices and why you made them
 - Read someone else's model training code and explain what it's doing
