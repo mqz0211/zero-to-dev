@@ -1,4 +1,4 @@
-# 🎮 Game Developer Roadmap
+#  Game Developer Roadmap
 
 **For people who want to:** build games — from core logic to engine to
 shipped release.
@@ -68,7 +68,7 @@ almost entirely here:
 - [ ] A devlog or blog documenting your process and decisions
 - [ ] See [`CAREERS/portfolio.md`](../CAREERS/portfolio.md)
 
-## ✅ You're ready for an internship interview when you can:
+##  You're ready for an internship interview when you can:
 - Explain how you'd implement basic enemy AI, from scratch, on a whiteboard
 - Talk through a finished game in your portfolio: what was hard, what
   you'd redo
