@@ -4,7 +4,7 @@
 > deliberately a little harder than the last and reuses what you just
 > learned. Pick a track, and go top to bottom.
 
-## 🐍 Python track
+##  Python track
 
 ```
 Project 1: Calculator
@@ -30,7 +30,7 @@ Project 6: Simple AI Assistant
 | 5 | Web Scraper | `requests` + `BeautifulSoup`, HTML parsing | 5–6 hrs |
 | 6 | Simple AI Assistant | Calling an API, structuring conditional responses | 6–8 hrs |
 
-## 🌐 Web Development track
+##  Web Development track
 
 ```
 Project 1: Personal Bio Page (HTML/CSS only)
@@ -49,7 +49,7 @@ Project 4: Recipe Finder (fetch + render dynamic lists)
 | 3 | Weather App | `fetch()`, working with a public API, async basics |
 | 4 | Recipe Finder | Rendering dynamic lists from API data, search/filter UI |
 
-## 🔐 Cybersecurity track (safe, legal, local-only)
+##  Cybersecurity track (safe, legal, local-only)
 
 ```
 Project 1: Password Strength Checker
@@ -68,7 +68,7 @@ Project 4: Caesar Cipher Encrypt/Decrypt Tool
 | 3 | Simple Port Scanner | Sockets, networking basics — **only scan machines/networks you own** |
 | 4 | Caesar Cipher Tool | Basic cryptography concepts, character encoding |
 
-## 📊 Data track
+##  Data track
 
 ```
 Project 1: CSV Data Cleaner
