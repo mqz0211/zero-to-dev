@@ -71,7 +71,7 @@ You can practice Linux commands right now:
 - **Windows:** install [WSL (Windows Subsystem for Linux)](https://learn.microsoft.com/windows/wsl/install) — a real Linux environment inside Windows
 - **Browser-based:** try an in-browser Linux sandbox with zero install
 
-## ✅ Check yourself
+##  Check yourself
 
 You're ready to move on when you can, without looking anything up:
 - Navigate into a folder three levels deep and back out
