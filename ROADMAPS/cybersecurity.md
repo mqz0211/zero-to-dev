@@ -1,10 +1,10 @@
-# 🔐 Cybersecurity Specialist Roadmap
+#  Cybersecurity Specialist Roadmap
 
 **For people who want to:** break, defend, and secure systems — legally
 and ethically.
 **Estimated time (part-time):** 8–12 months to internship-ready.
 
-> ⚠️ **Ethics first.** Every technique in this roadmap is meant to be
+>  **Ethics first.** Every technique in this roadmap is meant to be
 > practiced only on systems you own or are explicitly authorized to
 > test (your own lab, a CTF, or a bug-bounty program's defined scope).
 > Unauthorized access to systems is illegal in most countries, full stop.
@@ -74,7 +74,7 @@ Security portfolios look different from software portfolios:
 - [ ] A blog or GitHub repo explaining a vulnerability class in your own words
 - [ ] See [`CAREERS/portfolio.md`](../CAREERS/portfolio.md)
 
-## ✅ You're ready for an internship/junior role interview when you can:
+##  You're ready for an internship/junior role interview when you can:
 - Explain SQL injection well enough that a non-technical person understands the risk
 - Walk through how you'd approach an unfamiliar target within an authorized scope
 - Talk through a CTF challenge you solved, including what you tried that *didn't* work
