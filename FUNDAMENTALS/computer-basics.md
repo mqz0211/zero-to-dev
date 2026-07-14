@@ -76,7 +76,7 @@ stored as sequences of `1`s and `0`s (bits). You don't need to think
 about this daily, but it explains *why* things like "8-bit," "32-bit,"
 and "64-bit" systems are named the way they are.
 
-## ✅ Check yourself
+## Check yourself
 
 You're ready to move on when you can explain, in your own words:
 - The difference between RAM and storage
