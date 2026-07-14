@@ -1,4 +1,4 @@
-# 🌐 Web Developer Roadmap
+#  Web Developer Roadmap
 
 **For people who want to:** build websites and web applications — the
 fastest path from "learning to code" to "shipping something real people
@@ -60,7 +60,7 @@ Front-end-only developers are less hireable than full-stack-capable ones.
 - [ ] 2–3 deployed, working projects with clean GitHub repos
 - [ ] See [`CAREERS/portfolio.md`](../CAREERS/portfolio.md)
 
-## ✅ You're ready for an internship interview when you can:
+## You're ready for an internship interview when you can:
 - Explain what happens between clicking a link and a new page rendering
 - Build a small feature live, thinking out loud, without panicking
 - Talk through a deployed project on your portfolio site, including a
