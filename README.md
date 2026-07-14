@@ -4,7 +4,7 @@
 
 **The Wikipedia + roadmap.sh + freeCodeCamp of technology learning — built for students who don't already speak the language of tech.**
 
-![License](https://img.shields.io/github/license/mqz/zero-to-dev)
+![License](https://img.shields.io/github/license/mqz0211/zero-to-dev)
 ![Contributors welcome](https://img.shields.io/badge/contributors-welcome-4ce6a6)
 ![Status](https://img.shields.io/badge/status-v1_markdown-blue)
 
